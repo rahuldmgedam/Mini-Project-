@@ -4,6 +4,12 @@
     font-family: sans-serif;
 
 }
+@media screen and (min-width: 480px) {
+  *{
+    width:100%;
+  }
+}
+
 
 .hero{
     position: relative;
